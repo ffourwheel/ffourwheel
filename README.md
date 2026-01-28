@@ -1,62 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Punlawat%20Siriwan&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Backend%20Developer%20-%20AI%20and%20Data%20Science%20Student&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=333333&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Punlawat+👋;Aspiring+Backend+Developer+🚀;Data+%26+AI+Student+at+BU+🤖" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3> Hi there, I'm Punlawat (Four) 👋</h3>
-  <p>
-    <b>Aspiring Backend Developer & Tech Enthusiast</b><br>
-    3rd Year Student • AI & Data Science Engineering at Bangkok University
-  </p>
-  <p>
-      I love architecting scalable web applications and designing efficient APIs. Starting from a data science background, I discovered my true passion in <b>Backend Engineering</b>—building the engines that power modern apps. Currently looking for an <b>Internship</b> to apply my skills in <b>FastAPI, Docker, and Database Management</b>.
-  </p>
-   
-  <a href="mailto:punlawat.s@gmail.com">
-    <img src="https://img.shields.io/badge/Email-punlawat.s%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/ffourwheel">
-    <img src="https://img.shields.io/badge/GitHub-ffourwheel-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
+  <h3>Creating scalable backends & turning data into insights.</h3>
 </div>
 
 <br>
 
-### 🛠️ Tech Stack
-Here are the tools I use to build systems:
+## 👨‍💻 About Me
 
-| Category | Skills |
+- 🎓 Studying **AI & Data Science Engineering** at **Bangkok University** (3rd Year)
+- 🌍 Based in **Bangkok, Thailand**
+- 🔭 Currently working on **Worddee.ai (AI-powered English Learning Platform)**
+- 🌱 Exploring System Design concepts and optimizing SQL queries**
+- 🤝 Looking for an **Internship** as a **Backend Developer**
+- 📫 Contact me at: **punlawat.s@gmail.com**
+
+<br>
+
+## 🛠️ Tech Stack & Skills
+
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Python` `SQL` `JavaScript` |
-| **Backend & Core** | `FastAPI` `RESTful APIs` `PostgreSQL` `Next.js` |
-| **DevOps & Tools** | `Docker` `Git` `Postman` `VS Code` |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Backend & DB** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Core Skills** | ![Algorithms](https://img.shields.io/badge/Data_Structures_%26_Algorithms-2ea44f?style=for-the-badge) ![System Design](https://img.shields.io/badge/System_Design-FF9900?style=for-the-badge) |
 
 <br>
 
-### 🚀 How I Work
-My mindset as a developer:
+## 🚀 Featured Projects
 
-* 🧩 **System Thinker:** I enjoy designing schemas and logic before writing the code.
-* 🔄 **Fast Learner:** Transformed from Data Science to Full-stack/Backend development through self-study.
-* 🤝 **Team Player:** I believe in clear documentation and collaborative problem-solving.
-* ⚡ **Adaptable:** Ready to jump into new frameworks and cloud technologies.
+#### 🌐 **[Worddee.ai]** | *Full-Stack Web App*
+> An AI-powered English practice platform.
+> * **Stack:** `FastAPI` `Next.js` `PostgreSQL` `Docker` `Gemini AI`
+> * **Role:** Built the Backend API, Database Schema, and integrated AI logic.
 
-<br>
-
-### 📂 Featured Projects
-
-**🌐 Worddee.ai | Full-Stack Web App  (WebWord)**
-> A platform for practicing English sentences powered by AI.
-> * **Tech:** `FastAPI` `Next.js` `PostgreSQL` `Docker` `Gemini API`
-> * Built a backend to handle user sessions and integrated AI for real-time scoring.
-
-**⚙️ Automated Data Pipeline (ETL)**
-> An engineered pipeline handling large-scale data ingestion.
-> * **Tech:** `Python` `Docker` `PostgreSQL` `SQL`
-> * Processed **400,000+ records** via an automated script into a containerized data warehouse.
+#### ⚙️ **[Automated Data Pipeline]** | *Data Engineering*
+> ETL Pipeline handling 400k+ records.
+> * **Stack:** `Python` `Docker` `PostgreSQL` `SQL`
+> * **Role:** Engineered the data ingestion script and optimized SQL queries.
 
 <br>
+
+<hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ffourwheel&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="140" />
+  <a href="https://github.com/ffourwheel">
+    <img src="https://img.shields.io/badge/GitHub-ffourwheel-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:punlawat.s@gmail.com">
+    <img src="https://img.shields.io/badge/Email-punlawat.s%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
