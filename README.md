@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Punlawat%20Siriwan&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20And%20Data%20Science%20Student%20%40%20Bangkok%20University&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Punlawat%20Siriwan&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Backend%20Developer%20%7C%20AI%20%26%20Data%20Science%20Student&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
-  <h3> Hi there, I'm Punlawat (Four)</h3>
+  <h3> Hi there, I'm Punlawat (Four) 👋</h3>
   <p>
-    <b>Junior Explorer in the world of Data & AI</b><br>
-    3rd Year Student • AI & Data Science Engineering
+    <b>Aspiring Backend Developer & Tech Enthusiast</b><br>
+    3rd Year Student • AI & Data Science Engineering at Bangkok University
   </p>
   <p>
-     I love digging into data to find hidden patterns. Started with Python, fell in love with Data Science, and now I'm learning to build smarter models. Currently looking for an <b>Internship</b> to get my hands dirty with real-world data.
+      I love architecting scalable web applications and designing efficient APIs. Starting from a data science background, I discovered my true passion in <b>Backend Engineering</b>—building the engines that power modern apps. Currently looking for an <b>Internship</b> to apply my skills in <b>FastAPI, Docker, and Database Management</b>.
   </p>
-  
+   
   <a href="mailto:punlawat.s@gmail.com">
     <img src="https://img.shields.io/badge/Email-punlawat.s%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white">
   </a>
@@ -23,36 +23,37 @@
 <br>
 
 ### 🛠️ Tech Stack
-Here are the tools I use to solve problems:
+Here are the tools I use to build systems:
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | `Python` `SQL` |
-| **Data & AI** | `Pandas` `NumPy` `Matplotlib` `Scikit-Learn` |
-| **Tools** | `Google Colab` `VS Code` `Excel` |
+| **Languages** | `Python` `SQL` `JavaScript` |
+| **Backend & Core** | `FastAPI` `RESTful APIs` `PostgreSQL` `Next.js` |
+| **DevOps & Tools** | `Docker` `Git` `Postman` `VS Code` |
 
 <br>
 
 ### 🚀 How I Work
-It's not just about code. This is my mindset:
+My mindset as a developer:
 
-* 🤝 **Team Player:** I believe in good communication and moving forward together.
-* 📚 **Fast Learner:** I taught myself Python & Data basics and I'm still learning!.
-* 🧩 **Problem Solver:** I enjoy breaking down complex problems into solvable steps.
-* 🔄 **Adaptable:** Ready to jump into new tools and challenges.
+* 🧩 **System Thinker:** I enjoy designing schemas and logic before writing the code.
+* 🔄 **Fast Learner:** Transformed from Data Science to Full-stack/Backend development through self-study.
+* 🤝 **Team Player:** I believe in clear documentation and collaborative problem-solving.
+* ⚡ **Adaptable:** Ready to jump into new frameworks and cloud technologies.
 
 <br>
 
 ### 📂 Featured Projects
 
-**🍺 Thai Bev Sales Analysis**
-> Used **Python (Pandas & Matplotlib)** to clean simulated sales data and visualize trends to find out "What actually sells?".
+**🌐 Worddee.ai | Full-Stack Web App  (WebWord)**
+> A platform for practicing English sentences powered by AI.
+> * **Tech:** `FastAPI` `Next.js` `PostgreSQL` `Docker` `Gemini API`
+> * Built a backend to handle user sessions and integrated AI for real-time scoring.
 
-**🧹 Data Cleaning Pipeline**
-> A practice in **Data Auditing**. I built a pipeline to fix errors in a raw dataset because real-world data is never clean.
-
-**🗄️ Database Management**
-> Designed tables and ran queries using **SQL** to understand how data storage works behind the scenes.
+**⚙️ Automated Data Pipeline (ETL)**
+> An engineered pipeline handling large-scale data ingestion.
+> * **Tech:** `Python` `Docker` `PostgreSQL` `SQL`
+> * Processed **400,000+ records** via an automated script into a containerized data warehouse.
 
 <br>
 
