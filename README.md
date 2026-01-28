@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>👋 Hi there, I'm Punlawat (Four)</h3>
+  <h3> Hi there, I'm Punlawat (Four)</h3>
   <p>
     <b>Junior Explorer in the world of Data & AI</b><br>
     3rd Year Student • AI & Data Science Engineering
