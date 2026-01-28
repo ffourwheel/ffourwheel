@@ -37,7 +37,7 @@ Here are the tools I use to solve problems:
 It's not just about code. This is my mindset:
 
 * 🤝 **Team Player:** I believe in good communication and moving forward together.
-* 📚 **Fast Learner:** I taught myself Python & Data basics (and I'm still learning!).
+* 📚 **Fast Learner:** I taught myself Python & Data basics and I'm still learning!.
 * 🧩 **Problem Solver:** I enjoy breaking down complex problems into solvable steps.
 * 🔄 **Adaptable:** Ready to jump into new tools and challenges.
 
