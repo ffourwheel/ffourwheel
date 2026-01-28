@@ -1,65 +1,61 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=250&section=header&text=Punlawat%20Siriwan&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20@%20Bangkok%20University&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Punlawat%20Siriwan&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%40%20Bangkok%20University&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
 </div>
-
-<h1 align="center">Hi there, I'm Punlawat (Four) 👋</h1>
-<h3 align="center">🚀 Aspiring Data Analyst & AI Engineer</h3>
-
-<p align="center">
-  I am a 3rd-year <b>Artificial Intelligence and Data Science</b> student at <b>Bangkok University</b>. 
-  <br>Passionate about turning data into insights through Python, SQL, and Visualization tools. 
-  <br>Currently seeking <b>Internship opportunities</b> to gain real-world experience.
-</p>
-
-<p align="center">
-  <a href="mailto:punlawat.s@gmail.com"><img src="https://img.shields.io/badge/Email-punlawat.s%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/ffourwheel"><img src="https://img.shields.io/badge/GitHub-ffourwheel-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-### 🛠 Tech Stack & Skills
-Based on my coursework and projects:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <h3>👋 Hi there, I'm Punlawat (Four)</h3>
+  <p>
+    <b>Junior Explorer in the world of Data & AI</b><br>
+    3rd Year Student • AI & Data Science Engineering
+  </p>
+  <p>
+     I love digging into data to find hidden patterns. Started with Python, fell in love with Data Science, and now I'm learning to build smarter models. Currently looking for an <b>Internship</b> to get my hands dirty with real-world data.
+  </p>
   
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Math-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-Data_Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <a href="mailto:punlawat.s@gmail.com">
+    <img src="https://img.shields.io/badge/Email-punlawat.s%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/ffourwheel">
+    <img src="https://img.shields.io/badge/GitHub-ffourwheel-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
 </div>
 
----
+<br>
+
+### 🛠️ Tech Stack
+Here are the tools I use to solve problems:
+
+| Category | Skills |
+| --- | --- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Data & AI** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Tools** | ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+
+<br>
+
+### 🚀 How I Work
+It's not just about code. This is my mindset:
+
+* 🤝 **Team Player:** I believe in good communication and moving forward together.
+* 📚 **Fast Learner:** I taught myself Python & Data basics (and I'm still learning!).
+* 🧩 **Problem Solver:** I enjoy breaking down complex problems into solvable steps.
+* 🔄 **Adaptable:** Ready to jump into new tools and challenges.
+
+<br>
 
 ### 📂 Featured Projects
 
-#### 📊 Thai Bev Test Data Analyze
-* [cite_start]**Focus:** Analyzed sales data, explored sales trends, and identified top-selling products using Python[cite: 33, 34].
-* [cite_start]**Tech:** Python, Pandas, Matplotlib (Google Colab)[cite: 35].
-* [cite_start]**Outcome:** Developed analytical thinking and visualized data to make it easier to understand[cite: 36].
+**🍺 Thai Bev Sales Analysis**
+> Used **Python (Pandas & Matplotlib)** to clean simulated sales data and visualize trends to find out "What actually sells?".
 
-#### 🧹 Basic Data Analyze
-* [cite_start]**Focus:** A complete Python project covering data auditing, cleaning, and visualization on a simulated dataset[cite: 38].
-* **Tech:** Python, Data Visualization Libraries.
+**🧹 Data Cleaning Pipeline**
+> A practice in **Data Auditing**. I built a pipeline to fix errors in a raw dataset because real-world data is never clean.
 
-#### 🗄️ Basic SQL and Database Management
-* [cite_start]**Focus:** Performed database management tasks including table creation, data insertion, and extraction[cite: 40].
-* **Tech:** SQL, Google Colab Environment.
+**🗄️ Database Management**
+> Designed tables and ran queries using **SQL** to understand how data storage works behind the scenes.
 
----
+<br>
 
-### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ffourwheel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffourwheel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ffourwheel&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="140" />
 </div>
