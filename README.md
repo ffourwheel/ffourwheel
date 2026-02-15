@@ -13,7 +13,7 @@
 - 🎓 Studying **AI & Data Science Engineering** at **Bangkok University** (3rd Year)
 - 🌍 Based in **Bangkok, Thailand**
 - 🔭 Currently working on **Worddee.ai (AI-powered English Learning Platform)**
-- 🌱 Exploring System Design concepts and optimizing SQL queries**
+- 🌱 Exploring System Design concepts and optimizing SQL queries
 - 🤝 Looking for an **Internship** as a **Backend Developer**
 - 📫 Contact me at: **punlawat.s@gmail.com**
 
